@@ -52,3 +52,6 @@ Which looks like this:
                     <artifactId>selenium-java</artifactId>
                     <version>4.1.1</version>
                 </dependency>
+                
+####Running the tests
+To run all tests, call `mvn clean test`
