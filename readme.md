@@ -2,7 +2,7 @@
 This project should login to step website, browse its tabs and make sure the tabs are loaded.
 ## Getting Started
 #### Prerequisites
-- [Java 11](https://www.oracle.com/java/technologies/downloads/#java18) as programming language
+- [Java 11](https://www.oracle.com/java/technologies/downloads/#java11) as programming language
 - [Maven](https://maven.apache.org) for Package Management and Build Automation
 - [Selenium](https://www.selenium.dev) for Web Automation
 - [JUnit 5](https://junit.org/junit5/docs/current/user-guide/) as framework
